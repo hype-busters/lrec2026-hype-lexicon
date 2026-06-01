@@ -2,7 +2,7 @@
 
 Hyplex is an intensity-scaled lexicon of 303 promotional adjectives attested in biomedical writing across eight evaluative domains, i.e., IMPORTANCE, NOVELTY, SCALE, RIGOUR, UTILITY, QUALITIES, ATTITUDE, and PROBLEM. 
 
-# Columns:
+# Columns Description
 
 - Category: Semantic category
 - Adjective: Lexical item
